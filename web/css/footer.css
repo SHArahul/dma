@@ -1,0 +1,25 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 30 Apr, 2017, 12:47:32 AM
+    Author     : acer
+*/
+
+.footer{
+  position: absolute;
+     width:97%;
+    top:90%;
+}
+
+
+
+.footer h3{
+    font-size: 15px;
+    color: #e6e6e6;
+    /* margin-left: 25%; */
+    /* margin-top: 10%; */
+    text-align: CENTER;
+}

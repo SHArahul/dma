@@ -1,0 +1,24 @@
+input{
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    align-self: center;
+}
+input.placeholder{
+    text-align: center;
+}
+::-webkit-input-placeholder {
+    text-align: center;
+}
+
+:-moz-placeholder { /* Firefox 18- */
+    text-align: center;  
+}
+
+::-moz-placeholder {  /* Firefox 19+ */
+    text-align: center;  
+}
+
+:-ms-input-placeholder {  
+    text-align: center; 
+}
